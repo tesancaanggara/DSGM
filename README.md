@@ -1,8 +1,8 @@
 # TESANCA ANGGARA
+# Education
 
-Data Science for Global Manager PIPIPIIIIIII
 
-# Introduction
+# Education
 
 This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
 
