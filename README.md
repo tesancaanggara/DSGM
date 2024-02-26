@@ -1,6 +1,6 @@
-# DSGM
+# TESANCA ANGGARA
 
-Data Science for Global Manager
+Data Science for Global Manager PIPIPIIIIIII
 
 # Introduction
 
